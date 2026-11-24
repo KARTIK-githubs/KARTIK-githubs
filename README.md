@@ -37,7 +37,7 @@ I also help run campus placement drives at MSIT, where I coordinate scheduling, 
 
 ## Contributions
 
-[See my contribution activity and pinned projects](https://github.com/KARTIK-githubs#contributions).
+[See my GitHub contribution activity](https://github.com/KARTIK-githubs?tab=overview#contribution-activity).
 
 ## Outside the code
 
