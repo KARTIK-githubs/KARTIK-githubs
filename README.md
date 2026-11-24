@@ -1,18 +1,18 @@
 # Kartik Aggarwal
 
-I'm a B.Tech Information Technology student at Maharaja Surajmal Institute of Technology (2024–2028). I build full-stack prototypes and AI-assisted tools, and coordinate campus recruitment drives as a placement coordinator.
+I’m a B.Tech Information Technology student at Maharaja Surajmal Institute of Technology (2024–2028). I build full-stack and applied AI prototypes. As a placement coordinator, I help organize campus recruitment drives involving 100+ students per company.
 
-[Portfolio](https://kartik-githubs.github.io/) · [LinkedIn](https://www.linkedin.com/in/kartik-aggarwal-389151325/)
+[Portfolio](https://kartik-githubs.github.io/) · [LinkedIn](https://www.linkedin.com/in/kartik-aggarwal25/)
 
 ## Selected projects
 
-| Project | What it does |
+| Project | Work |
 | --- | --- |
-| [Solaris](https://github.com/KARTIK-githubs/Solaris----Dheera-Green-Infra) | Models rooftop feasibility, affordability and shared solar credits for Delhi households. |
-| [VentureArchitect AI](https://github.com/KARTIK-githubs/VentureArchitect-AI) | Turns ideas into briefs covering the market, strategy, risks and pitch. |
-| [Akashvaani AI](https://github.com/KARTIK-githubs/Akashvaani-AI) | Team prototype for OCR-assisted public scheme discovery. |
-| [AgriCycle AI](https://github.com/KARTIK-githubs/AgriCycle-AI) | Compares crop residue pathways and generates action plans. |
-| [INDIMON](https://github.com/KARTIK-githubs/indi-mon) | Team project for Indian monument classification with TensorFlow. |
-| [Aasra](https://github.com/KARTIK-githubs/Aasra) | Team prototype for consent, privacy and access to well-being support. |
+| [Solaris](https://github.com/KARTIK-githubs/Solaris----Dheera-Green-Infra) | Dheera Green Infra collaboration on a rooftop feasibility and shared-solar planning prototype. |
+| [VentureArchitect AI](https://github.com/KARTIK-githubs/VentureArchitect-AI) | Edunet Foundation project using Flask and IBM watsonx.ai to turn startup ideas into structured planning briefs. |
+| [AgriCycle AI](https://github.com/KARTIK-githubs/AgriCycle-AI) | 1M1B project comparing crop-residue options by cost, distance, machinery availability and user priorities. |
+| [Akashvaani AI](https://github.com/KARTIK-githubs/Akashvaani-AI) | HackMSIT team prototype for OCR-assisted government scheme discovery. |
+| [INDIMON](https://github.com/KARTIK-githubs/indi-mon) | Team project with TensorFlow training and inference for Indian monument classification. |
+| [Aasra](https://github.com/KARTIK-githubs/Aasra) | Team prototype exploring consent, privacy and access to well-being support. |
 
-Akashvaani AI, INDIMON and Aasra are forks of team repositories. GitHub links each fork to its upstream project.
+Akashvaani AI, INDIMON and Aasra are team forks. Each repository links to its upstream project and retains its contributor history.
