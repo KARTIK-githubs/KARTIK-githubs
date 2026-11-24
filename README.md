@@ -27,6 +27,12 @@ I also help run campus placement drives at MSIT, where I coordinate scheduling, 
 | [**INDIMON**](https://github.com/KARTIK-githubs/indi-mon) | A team-built Indian monument classifier with a runnable upload interface. |
 | [**WitTrade**](https://github.com/KARTIK-githubs/WitTrade) | A team-built marketplace where startups publish projects and learners apply. |
 
+## Try a project locally
+
+- **[INDIMON](https://github.com/KARTIK-githubs/indi-mon#readme)** has a browser upload demo for its bundled monument classifier. No API key is required.
+- **[VentureArchitect AI](https://github.com/KARTIK-githubs/VentureArchitect-AI#readme)** can open a five-part offline planning worksheet. Configure Groq for generated briefs.
+- **[IWIIGI](https://github.com/KARTIK-githubs/IWIIGI#readme)** has a small earn-and-redeem demo whose points stay in your browser.
+
 ## Tech stack
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,nodejs,express,python,flask,mongodb,tensorflow,git&perline=6" alt="TypeScript, React, Tailwind CSS, Vite, Node.js, Express, Python, Flask, MongoDB, TensorFlow, and Git"></p>
