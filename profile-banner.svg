@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title">
+<title id="title">Kartik Aggarwal, software and applied AI</title>
+<defs><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#39332e"/></pattern></defs>
+<rect width="1000" height="270" rx="22" fill="#171615"/><rect x="15" y="15" width="970" height="240" rx="12" fill="url(#grid)"/>
+<g transform="translate(800 136)" fill="none" stroke="#ff861c"><circle r="106" opacity=".2"/><circle r="79" opacity=".4"/><circle r="48"/><path d="M-107 0H107M0-107V107" opacity=".55"/><circle r="8" fill="#ff861c"/><circle cx="48" r="4" fill="#ff861c"/><circle cy="-79" r="5" fill="#ff861c"/></g>
+<text x="55" y="99" fill="#ff861c" font-family="monospace" font-size="20" letter-spacing="4">NEW DELHI · MSIT</text>
+<text x="52" y="159" fill="#f1ebe4" font-family="system-ui,sans-serif" font-weight="800" font-size="63">Kartik Aggarwal</text>
+<text x="55" y="207" fill="#c9bcb0" font-family="monospace" font-size="24">Software and applied AI</text>
+</svg>
