@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profile-banner.svg" width="100%" alt="Kartik Aggarwal · Software and applied AI">
+
 # Kartik Aggarwal
 
 **Third-year B.Tech Information Technology student · MSIT, New Delhi**
@@ -7,6 +9,8 @@
 [Portfolio](https://kartik-githubs.github.io/) · [LinkedIn](https://www.linkedin.com/in/kartik-aggarwal25/) · [Email](mailto:kartik.aggarwal199@gmail.com)
 
 </div>
+
+## About me
 
 I like building software that helps someone make a decision. With Solaris, that meant turning a rooftop and an electricity bill into a sizing and payback estimate. With AgriCycle AI, it meant comparing crop-residue options against the resources available nearby.
 
@@ -23,11 +27,17 @@ I also help run campus placement drives at MSIT, where I coordinate scheduling, 
 | [**INDIMON**](https://github.com/KARTIK-githubs/indi-mon) | A team-built Indian monument classifier with a runnable upload interface. |
 | [**WitTrade**](https://github.com/KARTIK-githubs/WitTrade) | A team-built marketplace where startups publish projects and learners apply. |
 
-## What I build with
+## Tech stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,nodejs,express,python,flask,mongodb,tensorflow,git&perline=6" alt="TypeScript, React, Tailwind CSS, Vite, Node.js, Express, Python, Flask, MongoDB, TensorFlow, and Git"></p>
 
 **Web:** TypeScript, React, Tailwind CSS, Vite  
 **Backend:** Node.js, Express, Flask, REST APIs, MongoDB, SQL  
 **Applied AI:** Python, TensorFlow, Groq, IBM watsonx.ai
+
+## Contributions
+
+[See my contribution activity and pinned projects](https://github.com/KARTIK-githubs#contributions).
 
 ## Outside the code
 
